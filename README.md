@@ -1,2 +1,1 @@
-# ai-computer-systems
-Kyiv Polytechnic Institute lab assignments
+# Ai computer systems
