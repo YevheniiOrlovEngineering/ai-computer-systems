@@ -1,0 +1,9 @@
+tabulate
+opencv-python
+tqdm
+Pillow
+tensorflow
+tqdm
+matplotlib
+scikit-learn
+
